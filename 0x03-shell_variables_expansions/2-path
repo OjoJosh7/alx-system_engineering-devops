@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir action | export PATH="$0x03-shell_variables_expansions/action:$PATH"
+export PATH="$PATH:/action"
